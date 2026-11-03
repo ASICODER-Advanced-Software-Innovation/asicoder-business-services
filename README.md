@@ -1,10 +1,10 @@
-# ASICODER — Software Development, Project Inquiry & B2B Business Research
+# ASICODER — Software Development, Project Inquiry 
 
-### Custom Software · Web & Mobile Applications · AI Automation · B2B Market Intelligence
+### Custom Software · Web & Mobile Applications · AI Automation
 
 Welcome to the official **ASICODER Business Services** repository.
 
-ASICODER — Advanced Software Innovation Coder — provides custom software development, website development, web and mobile applications, business software, AI integrations, technical SEO implementation, creative digital services, and B2B company research.
+ASICODER — Advanced Software Innovation Coder — provides custom software development, website development, web and mobile applications, business software, AI integrations, technical SEO implementation, creative digital services.
 
 This repository provides public documentation about our services, inquiry process, business research capabilities, and responsible handling of business information.
 
@@ -18,8 +18,8 @@ This repository provides public documentation about our services, inquiry proces
 |---|---|---|---|
 | Digital Services | Custom software, Laravel, React, websites, mobile apps, SaaS, APIs, AI, design and technical SEO | [Explore Services](https://www.asicoder.co.uk/our-service) | [Digital Services Guide](Digital-Services.md) |
 | Project Inquiry | Submit custom project requirements, timelines and budgets for review | [Submit Project Inquiry](https://www.asicoder.co.uk/project-request) | [Project Inquiry Guide](Project-Inquiry.md) |
-| B2B Business Research | Company discovery, country research, state and city market analysis, industry and competitor research | [Explore B2B Research](https://www.asicoder.co.uk/Project-Inquiry) | [B2B Research Guide](B2B-Business-Research.md) |
-| Business Data Privacy & Compliance | Data sourcing, business versus personal contact information, legal review and data removal | [Read Compliance Policy](https://www.asicoder.co.uk/data-sourcing-compliance) | [Privacy & Compliance Guide](Business-Data-Privacy-Compliance.md) |
+| B2B Business Research | Company discovery, country research, state and city market analysis, industry and competitor research | [Explore B2B Research](https://www.asicoder.co.uk/Project-Inquiry)
+
 
 ---
 
