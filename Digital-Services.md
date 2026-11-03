@@ -205,9 +205,6 @@ https://www.asicoder.co.uk/our-service
 **Submit a project:**  
 https://www.asicoder.co.uk/project-request
 
-**Business research:**  
-https://www.asicoder.co.uk/business-data
-
 **Email:** support@asicoder.co.uk
 
 [Back to Repository](README.md)
