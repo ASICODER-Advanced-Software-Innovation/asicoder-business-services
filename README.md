@@ -18,7 +18,7 @@ This repository provides public documentation about our services, inquiry proces
 |---|---|---|---|
 | Digital Services | Custom software, Laravel, React, websites, mobile apps, SaaS, APIs, AI, design and technical SEO | [Explore Services](https://www.asicoder.co.uk/our-service) | [Digital Services Guide](Digital-Services.md) |
 | Project Inquiry | Submit custom project requirements, timelines and budgets for review | [Submit Project Inquiry](https://www.asicoder.co.uk/project-request) | [Project Inquiry Guide](Project-Inquiry.md) |
-| B2B Business Research | Company discovery, country research, state and city market analysis, industry and competitor research | [Explore B2B Research](https://www.asicoder.co.uk/business-data) | [B2B Research Guide](B2B-Business-Research.md) |
+| B2B Business Research | Company discovery, country research, state and city market analysis, industry and competitor research | [Explore B2B Research](https://www.asicoder.co.uk/Project-Inquiry) | [B2B Research Guide](B2B-Business-Research.md) |
 | Business Data Privacy & Compliance | Data sourcing, business versus personal contact information, legal review and data removal | [Read Compliance Policy](https://www.asicoder.co.uk/data-sourcing-compliance) | [Privacy & Compliance Guide](Business-Data-Privacy-Compliance.md) |
 
 ---
